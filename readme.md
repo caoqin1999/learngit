@@ -7,3 +7,5 @@ git is a free software.
 + loca repo
 - remote repo
 
+++ branch manage
+
